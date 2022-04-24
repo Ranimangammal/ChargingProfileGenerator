@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RgPtT69NY9ErwH+VH/Dj8h5WhOJOyyScTdzqXNTx2QE=",
+  "Source": "ChargingScheduleApi",
+  "BasePath": "_content/ChargingScheduleApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
